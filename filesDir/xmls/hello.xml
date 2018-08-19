@@ -1,0 +1,7 @@
+﻿<country name="china">
+	<citys name="beijing"/>
+	<citys name="shanghai"/>
+	<citys name="guangzhou"/>
+	<citys name="shenzhen"/>
+	<bookMarks url="http://localhost:8080/files/"/>
+</country>

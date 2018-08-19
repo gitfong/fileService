@@ -1,0 +1,6 @@
+﻿<language name="golang">
+	<fetures name="goroutine"/>
+	<fetures name="channel"/>
+	<fetures name="map"/>
+	<fetures name="slice"/>
+</language>
